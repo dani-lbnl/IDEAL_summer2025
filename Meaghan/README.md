@@ -1,5 +1,8 @@
-# Meaghan Boykin
+# Meaghan Boykin 
+Computer Science Student at Sonoma State University, class of 2026.
+
 meaghan.b@protonmail.com
+
 
 ## LBNL WDE Internship Program SULI 2025
 
