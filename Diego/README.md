@@ -1,6 +1,6 @@
-# Joe Mary Doe
+# Diego Jimenez
 
-## LBNL WDE Internship Program <your program> 2025
+## LBNL WDE Internship Program SEED 2025
 
 This is a short introduction to your science project, including major accomplishment and impact. *Requirement: Google Drive and Colab*.
 
