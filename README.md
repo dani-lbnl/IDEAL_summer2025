@@ -5,7 +5,7 @@ Welcome to the **IDEAL Summer 2025 Project Reports** repository! Get ready to di
 Our brilliant minds are hard at work developing **cutting-edge AI methods** that are truly pushing the boundaries of scientific discovery. We're talking about a fantastic fusion of disciplines here:
 * **Computer Vision:** Teaching computers to "see" and interpret complex visual data. Click [Vision](https://github.com/lbl-camera/vision) 
 * **Natural Language Processing (NLP):** Empowering machines to understand, process, and generate human language. Click [Dlab](https://github.com/dlab-berkeley/Python-NLP-Fundamentals)
-* **Advanced Computing:** Leveraging powerful computational resources to tackle massive datasets and complex algorithms. Click []
+* **Advanced Computing:** Leveraging powerful computational resources to tackle massive datasets and complex algorithms. Click [ML4Sci](https://ml4sci.lbl.gov/training)
 
 What makes this even more thrilling? A core part of these projects involves the in-depth analysis of **experimental samples acquired directly from  imaging facilities at LBNL**. That's right, we're working with real-world, high-resolution data to develop AI solutions that have a tangible impact.
 
