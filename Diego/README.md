@@ -2,17 +2,11 @@
 
 ## LBNL WDE Internship Program SEED 2025
 
-This is a short introduction to your science project, including major accomplishment and impact. *Requirement: Google Drive and Colab*.
+Measuring Dendrite Formation via SAM 
 
-<table border="0">
- <tr>
-    <td><img src="https://github.com/dani-lbnl/introvision/blob/main/cameracomputervision.png" width="300">
-    </td>
-    <td>
-     <p>
-      Title: This Title is Valuable  <a href='https://docs.google.com/presentation/d/1dP4LKxXJEqRjHSPzQyw53Dt5rSOHMtr3rGaYTXCSiiA/edit?usp=sharing'>[slides]</a>
-      <li> Author(s): <a href='http://bit.ly/idealdatascience'> Joe Mary Doe </a>
-      <li> Research paper: <a href='sllslsls'>[PDF]</a> 
-      </td>
- </tr>
-</table>
+Done in Collaboration with LBNL and the computing science division under Daniela Ushizima.
+
+In this project we evaluate the performance of Meta's Segment Anything Model (SAM) in order to test whether it may be used in order to help aid the analysis of Lithium Metal Batteries. The analysis is done by comparing its results to smaller MLP and RF models and then evaluate their metrics.
+
+
+
