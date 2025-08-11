@@ -2,8 +2,13 @@
 
 # LBNL WDE Internship Program <CCI Program> 2025
 
-This is a short introduction to your science project, including major accomplishment and impact. *Requirement: Google Drive and Colab*.
+Plant root segmentation is a critical task in plant biology, offering insights into root morphology, growth patterns, and interactions with the environment. While advanced deep learning models like RhizoNET achieve high segmentation accuracy, they oftentimes require technical expertise and high-performance GPU hardware.
 
+This project introduces a lightweight, accessible alternative using a Multi-Layer Perceptron (MLP) for EcoFAB root segmentation. The model is designed to be trained and deployed on standard hardware (e.g., MacBook Air), dramatically lowering the barrier to entry for researchers and students.
+
+https://github.com/helencordova12/EcoFAB-Multilayer-Perceptron-MLP-Model
+
+Key Features
 <table border="0">
  <tr>
     <td><img src="https://github.com/dani-lbnl/introvision/blob/main/cameracomputervision.png" width="300">
